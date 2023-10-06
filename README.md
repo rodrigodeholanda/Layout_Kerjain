@@ -1,2 +1,2 @@
 # Layout_Kerjain
-Repositorio criado para o projeto Html/Css do site Kerjain, do curso de FullStack na Digital College.
+Repositorio criado para o projeto Html/Css do site Trackerz, trabalho apresentado no curso de FullStack na Digital College.
